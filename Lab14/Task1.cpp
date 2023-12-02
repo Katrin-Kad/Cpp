@@ -1,7 +1,3 @@
-//
-// Created by Sergei Kononchuk on 31.10.2023.
-//
-
 #include <iostream>
 
 template<typename T, size_t N>
