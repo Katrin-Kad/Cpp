@@ -1,7 +1,3 @@
-//
-// Created by Sergei Kononchuk on 30.10.2023.
-//
-
 #include <string>
 #include <iostream>
 
