@@ -1,6 +1,3 @@
-//
-// Created by Sergei Kononchuk on 29.10.2023.
-//
 class Dot
 {
 private:
