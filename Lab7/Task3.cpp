@@ -1,6 +1,3 @@
-//
-// Created by Sergei Kononchuk on 29.10.2023.
-//
 #include <iostream>
 #include <tuple>
 #include <cmath>
