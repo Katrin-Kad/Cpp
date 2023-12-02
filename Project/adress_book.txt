@@ -1,0 +1,13 @@
+Contacts count: 2
+Teacher: Nikita Osipov
+Student: Sergey Kononchuk
+
+
+Contacts count: 2
+Teacher: Nikita Osipov
+Age: 40
+Lessons: C#,C++,
+Student: Sergey Kononchuk
+Age: 21
+University: 3 course
+
